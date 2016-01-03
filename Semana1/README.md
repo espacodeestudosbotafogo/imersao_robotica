@@ -6,13 +6,11 @@ O nome da pasta representa o conteúdo central da seção, que é apresentado de
 
 ### Iniciantes
 
-1. O interpretador Python
-2. Condicionais
-3. Repetição
-4. Funções
-5. Módulos
+1. I/O Digital
+2. I/O Analogico
+3. Programação básica
 
-### Projeto da semana: Jogo da Forca
+### Projeto da semana: Joystick
 
-O projeto desta semana é o famigerado jogo da forca. O jogo pode ser jogado interagindo pelo terminal de comando. O "visual" do jogo pode ser apresentado pelo terminal de comando ou em uma janela a parte (usando o módulo [turtle](https://docs.python.org/3.5/library/turtle.html), por exemplo).
-
+O projeto desta semana é montar seu próprio controle de videogame!
+Na pasta Projeto da Semana 1 há uma proposta de código em phyton para interpretar comandos enviados pelo Arduino.
