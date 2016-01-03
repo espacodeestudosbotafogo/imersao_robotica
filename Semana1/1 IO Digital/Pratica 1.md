@@ -8,7 +8,7 @@ Objetivo da prática: **Acender 3 Leds em sequência como um sinal de trânsito*
 
 Material: 
 
-	**1 Arduino**
+**1 Arduino**
 
-	**3 LEDs**
+**3 LEDs**
 
