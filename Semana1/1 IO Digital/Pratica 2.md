@@ -1,5 +1,5 @@
-## Prática 2
-#Botão
+# Prática 2
+### Botão
 
 Além de dominar como enviar sinais digitais com o Arduino,
 é igualmente importante aprender a ler sinais digitais.
